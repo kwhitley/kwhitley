@@ -51,4 +51,14 @@ Boilerplate is the noise we have to sift through to derive meaning from code. I 
 ![Astro](https://img.shields.io/badge/Astro-%23EEE.svg?style=for-the-badge&logo=astro&logoColor=FF5D01)
 ![Solid](https://img.shields.io/badge/Solid-%23EEE.svg?style=for-the-badge&logo=solid&logoColor=2C4F7C)
 ![Supabase](https://img.shields.io/badge/Supabase-%23EEE.svg?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![Swift](https://img.shields.io/badge/Swift-%23EEE.svg?style=for-the-badge&logo=swift&logoColor=F05138)
+![iOS](https://img.shields.io/badge/iOS-%23EEE.svg?style=for-the-badge&logo=ios&logoColor=000)
 
+&nbsp;
+
+###### Retired Tech (just listing a few that I'm no longer interested in working with)
+![React](https://img.shields.io/badge/React-%23FFF.svg?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![Redux](https://img.shields.io/badge/Redux-%23FFF.svg?style=for-the-badge&logo=redux&logoColor=764ABC) 
+![AngularJS](https://img.shields.io/badge/AngularJS-%23FFF.svg?style=for-the-badge&logo=angularjs&logoColor=E23237) 
+![PHP](https://img.shields.io/badge/PHP-%23FFF.svg?style=for-the-badge&logo=php&logoColor=777BB4) 
+![.NET](https://img.shields.io/badge/.NET-%23FFF.svg?style=for-the-badge&logo=.net&logoColor=512BD4)
