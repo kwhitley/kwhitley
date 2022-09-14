@@ -1,4 +1,4 @@
-# Github Page of [Kevin R. Whitley](https://kevinrwhitley.com)
+# GitHub Page of [Kevin R. Whitley](https://kevinrwhitley.com)
 
 Hi!  I'm an obsessive technologist with 25 years (~16 professional) of programming experience, specializing in user experience (UX), developer experience (DX is really just another form of UX), and streamlining dev teams by identifying and removing development/execution bottlenecks.
 
