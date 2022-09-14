@@ -12,6 +12,7 @@ Along these lines, my published works center around a single premise: achieve mo
 <a href="https://twitter.com/kevinrwhitley">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="https://github.com/kwhitley">![GitHub](https://img.shields.io/badge/github-%23EEE.svg?style=for-the-badge&logo=github&logoColor=121011)</a>
 <a href="https://www.linkedin.com/in/kevinrwhitley/">![LinkedIn](https://img.shields.io/badge/linkedin-%23EEE.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5)</a>
+<a href="https://www.kevinrwhitley.com">![Personal Website](https://img.shields.io/badge/kevinrwhitley.com-%23EEE.svg?style=for-the-badge&logo=kirby&logoColor=F0C)</a>
 
 ### CURRENT STACK
 
