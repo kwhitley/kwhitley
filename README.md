@@ -17,8 +17,12 @@ Along these lines, my published works center around a single premise: achieve mo
 
 ![Vite](https://img.shields.io/badge/Vite-%23EEE.svg?style=for-the-badge&logo=vite&logoColor=646CFF)
 ![SvelteKit](https://img.shields.io/badge/Svelte/Kit-%23EEE.svg?style=for-the-badge&logo=svelte&logoColor=FF3E00)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-%23f38020.svg?style=for-the-badge&logo=cloudflare&logoColor=f38020)
+
+<!--![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Pages%20+%20Workers%20+%20Durable%20Objects%20+%20KV-%23EEE.svg?style=for-the-badge&logo=cloudflare&logoColor=f38020)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20(Pages%20+%20Workers%20+%20Durable%20Objects%20+%20KV)-%23EEE.svg?style=for-the-badge&logo=cloudflare&logoColor=f38020)-->
+
 ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare-Pages-%23f38020.svg?style=for-the-badge&logo=cloudflare&logoColor=f38020)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-%23f38020.svg?style=for-the-badge&logo=cloudflare&logoColor=f38020)
 ![Cloudflare Durable Objects](https://img.shields.io/badge/Cloudflare-Durable%20Objects-%23f38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white&logoColor=f38020)
 ![Cloudflare KV](https://img.shields.io/badge/Cloudflare-KV-%23f38020.svg?style=for-the-badge&logo=cloudflare&logoColor=f38020)
 
@@ -38,7 +42,7 @@ Along these lines, my published works center around a single premise: achieve mo
 ![Jest](https://img.shields.io/badge/-jest-%23EEE?style=for-the-badge&logo=jest&logoColor=C21325)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23EEE.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
 
-###### NEXT TECH TO TRY
+###### NEXT TECH TO PLAY WITH
 ![Astro](https://img.shields.io/badge/Astro-%23EEE.svg?style=for-the-badge&logo=astro&logoColor=FF5D01)
 ![Solid](https://img.shields.io/badge/Solid-%23EEE.svg?style=for-the-badge&logo=solid&logoColor=2C4F7C)
 ![Supabase](https://img.shields.io/badge/Supabase-%23EEE.svg?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
