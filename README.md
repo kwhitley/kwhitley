@@ -51,13 +51,17 @@ Boilerplate is the noise we have to sift through to derive meaning from code. I 
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%23EEE.svg?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 ![NPM](https://img.shields.io/badge/NPM-%23EEE.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23EEE?style=for-the-badge&logo=jest&logoColor=C21325)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23EEE.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-%23EEE.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
 
 &nbsp;
 
-###### Retired Tech (just listing a few that I'm no longer interested in working with)
+###### "Sunsetting" Tech (I focus on helping teams migrate from these onto better tools)
 ![React](https://img.shields.io/badge/React-%23FFF.svg?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![Redux](https://img.shields.io/badge/Redux-%23FFF.svg?style=for-the-badge&logo=redux&logoColor=764ABC) 
+![Redux](https://img.shields.io/badge/Redux-%23FFF.svg?style=for-the-badge&logo=redux&logoColor=764ABC)
+![Node](https://img.shields.io/badge/Node.js-%23FFF.svg?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-%23FFF.svg?style=for-the-badge&logo=express&logoColor=000)
+
+###### Fully-Retired Tech (a few that I'm no longer interested in working with at all, for any price)
 ![AngularJS](https://img.shields.io/badge/AngularJS-%23FFF.svg?style=for-the-badge&logo=angularjs&logoColor=E23237) 
 ![PHP](https://img.shields.io/badge/PHP-%23FFF.svg?style=for-the-badge&logo=php&logoColor=777BB4) 
 ![.NET](https://img.shields.io/badge/.NET-%23FFF.svg?style=for-the-badge&logo=.net&logoColor=512BD4)
