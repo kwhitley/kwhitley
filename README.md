@@ -1,6 +1,6 @@
 # Github Page of [Kevin R. Whitley](https://kevinrwhitley.com)
 
-Hi!  I'm an obsessive technologist with 25 years (~16 professional) of programming experience, specializing in user experience (UX) and developer experience (DX, which is really just another form of UX), and streamlining dev teams by identifying and removing development/execution bottlenecks.
+Hi!  I'm an obsessive technologist with 25 years (~16 professional) of programming experience, specializing in user experience (UX), developer experience (DX is really just another form of UX), and streamlining dev teams by identifying and removing development/execution bottlenecks.
 
 ### COMMUNITY
 I've been actively engaged in the JavaScript tech community for over 10 years, with downloads of my open-source NPM libraries exceeding a few million per year (~60-70k/week as of Sept 2022). Beyond that, I work closely with the teams of leading PaaS providers (e.g. Cloudflare) to help pioneer an easier, more elegant development experience for developers around the world. By simplifying complexities for everyone, I help enable rapid idea execution... ultimately shortening the time between conception and delivery (for myself as well as others).
