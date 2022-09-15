@@ -21,12 +21,10 @@ Boilerplate is the noise we have to sift through to derive meaning from code. I 
 [![itty-fetcher](https://img.shields.io/npm/dw/itty-fetcher?style=for-the-badge&logo=npm&color=ded&label=itty-fetcher)](https://npmjs.com/package/itty-fetcher)
 
 ### CURRENT STACK
-![Frontend](https://img.shields.io/badge/front%20=-fff?style=for-the-badge)
-![Cloudflare Pages](https://img.shields.io/badge/Cloudflare-Pages-%23f38020.svg?style=for-the-badge&logo=cloudflare&logoColor=f38020)
 ![Vite](https://img.shields.io/badge/Vite-%23EEE.svg?style=for-the-badge&logo=vite&logoColor=646CFF)
 ![SvelteKit](https://img.shields.io/badge/Svelte/Kit-%23EEE.svg?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 
-![Backend](https://img.shields.io/badge/back%20=-white?style=for-the-badge)
+![Cloudflare Pages](https://img.shields.io/badge/Cloudflare-Pages-%23f38020.svg?style=for-the-badge&logo=cloudflare&logoColor=f38020)
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-%23f38020.svg?style=for-the-badge&logo=cloudflare&logoColor=f38020)
 ![Cloudflare Durable Objects](https://img.shields.io/badge/Cloudflare-Durable%20Objects-%23f38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white&logoColor=f38020)
 ![Cloudflare KV](https://img.shields.io/badge/Cloudflare-KV-%23f38020.svg?style=for-the-badge&logo=cloudflare&logoColor=f38020)
