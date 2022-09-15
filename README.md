@@ -13,15 +13,13 @@ Boilerplate is the noise we have to sift through to derive meaning from code. I 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kevinrwhitley)
 [![GitHub](https://img.shields.io/badge/github-%23EEE.svg?style=for-the-badge&logo=github&logoColor=121011)](https://github.com/kwhitley)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%23EEE.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/kevinrwhitley/)
-[![Personal Website](https://img.shields.io/badge/kevinrwhitley.com-%23EEE.svg?style=for-the-badge&logo=kirby&logoColor=F0C)](https://www.kevinrwhitley.com)
-
 
 ### POPULAR LIBRARIES
-[![apicache](https://img.shields.io/npm/dw/apicache?style=for-the-badge&label=itty-router)](https://npmjs.com/package/apicache)
-[![itty-router](https://img.shields.io/npm/dw/itty-router?style=for-the-badge&label=itty-router)](https://npmjs.com/package/itty-router)
-[![itty-router-extras](https://img.shields.io/npm/dw/itty-router-extras?style=for-the-badge&label=itty-router-extras)](https://npmjs.com/package/itty-router-extras)
-[![itty-fetcher](https://img.shields.io/npm/dw/itty-fetcher?style=for-the-badge&label=itty-fetcher)](https://npmjs.com/package/itty-fetcher)
-
+[![apicache](https://img.shields.io/npm/dw/apicache?style=for-the-badge&logo=npm&color=ded&label=apicache)](https://npmjs.com/package/apicache)
+[![itty-router](https://img.shields.io/npm/dw/itty-router?style=for-the-badge&logo=npm&color=ded&label=itty-router)](https://npmjs.com/package/itty-router)
+[![itty-router-extras](https://img.shields.io/npm/dw/itty-router-extras?style=for-the-badge&logo=npm&color=ded&label=itty-router-extras)](https://npmjs.com/package/itty-router-extras)
+[![itty-fetcher](https://img.shields.io/npm/dw/itty-fetcher?style=for-the-badge&logo=npm&color=ded&label=itty-fetcher)](https://npmjs.com/package/itty-fetcher)
+[![supergeneric](https://img.shields.io/npm/dw/supergeneric?style=for-the-badge&logo=npm&color=ded&label=supergeneric)](https://npmjs.com/package/supergeneric)
 
 ### CURRENT STACK
 ![Vite](https://img.shields.io/badge/Vite-%23EEE.svg?style=for-the-badge&logo=vite&logoColor=646CFF)
