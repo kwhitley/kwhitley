@@ -13,6 +13,7 @@ Boilerplate is the noise we have to sift through to derive meaning from code. I 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kevinrwhitley)
 [![GitHub](https://img.shields.io/badge/github-%23EEE.svg?style=for-the-badge&logo=github&logoColor=121011)](https://github.com/kwhitley)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%23EEE.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/kevinrwhitley/)
+[![Portfolio](https://img.shields.io/badge/kevinrwhitley.com-%23EEE.svg?style=for-the-badge&logo=kirby&logoColor=f0c)](https://kevinrwhitley.com)
 
 ### POPULAR LIBRARIES
 [![apicache](https://img.shields.io/npm/dw/apicache?style=for-the-badge&logo=npm&color=ded&label=apicache)](https://npmjs.com/package/apicache)
