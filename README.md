@@ -19,6 +19,7 @@ Boilerplate is the noise we have to sift through to derive meaning from code. I 
 [![apicache](https://img.shields.io/npm/dw/apicache?style=for-the-badge&logo=npm&color=ded&label=apicache)](https://npmjs.com/package/apicache)
 [![itty-router](https://img.shields.io/npm/dw/itty-router?style=for-the-badge&logo=npm&color=ded&label=itty-router)](https://npmjs.com/package/itty-router)
 [![itty-router-extras](https://img.shields.io/npm/dw/itty-router-extras?style=for-the-badge&logo=npm&color=ded&label=itty-router-extras)](https://npmjs.com/package/itty-router-extras)
+[![itty-cors](https://img.shields.io/npm/dw/itty-cors?style=for-the-badge&logo=npm&color=ded&label=itty-cors)](https://npmjs.com/package/itty-cors)
 [![itty-fetcher](https://img.shields.io/npm/dw/itty-fetcher?style=for-the-badge&logo=npm&color=ded&label=itty-fetcher)](https://npmjs.com/package/itty-fetcher)
 
 ### CURRENT STACK
