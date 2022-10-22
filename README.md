@@ -31,11 +31,12 @@ Boilerplate is the noise we have to sift through to derive meaning from code. I 
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-%23f38020.svg?style=for-the-badge&logo=cloudflare&logoColor=f38020)
 ![Cloudflare Durable Objects](https://img.shields.io/badge/Cloudflare-Durable%20Objects-%23f38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white&logoColor=f38020)
 ![Cloudflare KV](https://img.shields.io/badge/Cloudflare-KV-%23f38020.svg?style=for-the-badge&logo=cloudflare&logoColor=f38020)
+![Cloudflare R2](https://img.shields.io/badge/Cloudflare-R2-%23f38020.svg?style=for-the-badge&logo=cloudflare&logoColor=f38020)
+![Supabase](https://img.shields.io/badge/Supabase-%23EEE.svg?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 
 ##### NEXT UP
 ![Astro](https://img.shields.io/badge/Astro-%23EEE.svg?style=for-the-badge&logo=astro&logoColor=FF5D01)
 ![Solid](https://img.shields.io/badge/Solid-%23EEE.svg?style=for-the-badge&logo=solid&logoColor=2C4F7C)
-![Supabase](https://img.shields.io/badge/Supabase-%23EEE.svg?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 ![Swift](https://img.shields.io/badge/Swift-%23EEE.svg?style=for-the-badge&logo=swift&logoColor=F05138)
 
 ##### THE OBVIOUS STUFF
@@ -52,6 +53,7 @@ Boilerplate is the noise we have to sift through to derive meaning from code. I 
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%23EEE.svg?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 ![NPM](https://img.shields.io/badge/NPM-%23EEE.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23EEE?style=for-the-badge&logo=jest&logoColor=C21325)
+![Vitest](https://img.shields.io/badge/Vitest-%23EEE.svg?style=for-the-badge&logo=vitest&logoColor=6E9F18)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-%23EEE.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
 
 &nbsp;
