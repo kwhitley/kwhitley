@@ -1,13 +1,8 @@
 # GitHub Page of [Kevin R. Whitley](https://kevinrwhitley.com)
 
-Hi!  I'm an obsessive technologist with 25 years (~16 professional) of programming experience, specializing in user experience (UX), developer experience (DX is really just another form of UX), and streamlining dev teams by identifying and removing development/execution bottlenecks.
+I'm an open-source developer, cloud architect, and system designer. Since the beginning of my career in 2006, I've been dancing between leadership and IC (individual contributor) roles, generally focused on organizational tooling and process improvement for the entire company, rather than individual products.
 
-### COMMUNITY
-I've been actively engaged in the JavaScript tech community for over 10 years, with downloads of my open-source NPM libraries exceeding a few million per year (~60-70k/week as of Sept 2022). Beyond that, I work closely with the teams of leading PaaS providers (e.g. Cloudflare) to help pioneer an easier, more elegant development experience for developers around the world. By simplifying complexities for everyone, I help enable rapid idea execution... ultimately shortening the time between conception and delivery (for myself as well as others).
-
-Along these lines, my published works center around a single premise: achieve more, with less effort. I believe code that's simple, human-readable, and *short* is the best code. Put simply, your future self (or any new developer) will have to waste less time trying to interpret/understand it. 
-
-Boilerplate is the noise we have to sift through to derive meaning from code. I target that.
+I design and build products from end-to-end, with a focus on global-availability, scaling without effort, and simplicity of design. My open source JS libraries net around 3.5 million downloads per year, with a focus on making code more human-readable.  I’m passionate about improving development velocity and time of [idea] execution. The faster we fail, the faster we have a chance at winning.
 
 ### CONTACT
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kevinrwhitley)
