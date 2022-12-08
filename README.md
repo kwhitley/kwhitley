@@ -7,7 +7,7 @@ I design and build products from end-to-end, with a focus on global-availability
 CURRENT SITUATION: 
 I alternate between leveraging my talents for [other] companies and working on my own (free/public) products that allow me to better explore emerging tech by shouldering risk that traditional employers may not be comfortable with. I then take these learnings to give the next employer a revolutionary leap forward, minus the R&D risk. 
 
-At present, I'm coming out of a rapid-fire deep-dive into fully-serverless architecture, and am wholly convinced that we're about to see a radical shift in backend design over the next 5-10 years. I believe many devs are swimming in the wrong direction, creating overly-complex systems that require humans to scale it (e.g. DevOps teams, or themselves), rather than designing systems that scale effortlessly with demand. I target the radical *simplification* of systems, because those are easier to write, easier to test, easier to maintain, and tend to cost a *lot* less. Sound interesting? Let's chat!
+At present, I'm coming out of a deep-dive into fully-serverless architecture, and am wholly convinced that we're about to see a radical shift in backend design over the next 5-10 years, and that containers aren't the solution.  Let's chat!
 
 ### CONTACT
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kevinrwhitley)
