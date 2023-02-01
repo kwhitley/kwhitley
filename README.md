@@ -35,35 +35,35 @@ or even discuss [hopefully not] taking a bath on comp to explore areas that alig
 ![Cloudflare R2](https://img.shields.io/badge/Cloudflare-R2-%23f38020.svg?style=for-the-badge&logo=cloudflare&logoColor=f38020)
 ![Supabase](https://img.shields.io/badge/Supabase-%23EEE.svg?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 
-##### NEXT UP
-![Astro](https://img.shields.io/badge/Astro-%23EEE.svg?style=for-the-badge&logo=astro&logoColor=FF5D01)
-![Solid](https://img.shields.io/badge/Solid-%23EEE.svg?style=for-the-badge&logo=solid&logoColor=2C4F7C)
+##### NEXT UP / INTERESTED
+![Kotlin](https://img.shields.io/badge/kotlin-%23EEE.svg?style=for-the-badge&logo=kotlin&logoColor=#7F52FF)
 ![Swift](https://img.shields.io/badge/Swift-%23EEE.svg?style=for-the-badge&logo=swift&logoColor=F05138)
+![Unity](https://img.shields.io/badge/Unity-%23EEE.svg?style=for-the-badge&logo=unity&logoColor=000)
 
 ##### THE OBVIOUS STUFF
-![JavaScript](https://img.shields.io/badge/javascript-%23F0F0F0.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23EEE.svg?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Markdown](https://img.shields.io/badge/markdown-%23EEE.svg?style=for-the-badge&logo=markdown&logoColor=000000)
-![HTML5](https://img.shields.io/badge/html5-%23EEE.svg?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/css3-%23EEE.svg?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Sass](https://img.shields.io/badge/Sass-%23EEE.svg?style=for-the-badge&logo=sass&logoColor=CC6699)
-![MongoDB](https://img.shields.io/badge/MongoDB-%23EEE.svg?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/mysql-%23EEE.svg?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Postgres](https://img.shields.io/badge/postgres-%23EEE.svg?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Express](https://img.shields.io/badge/Express-%23EEE.svg?style=for-the-badge&logo=express&logoColor=000)
 ![GitHub](https://img.shields.io/badge/GitHub-%23EEE.svg?style=for-the-badge&logo=github&logoColor=000)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%23EEE.svg?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![NPM](https://img.shields.io/badge/NPM-%23EEE.svg?style=for-the-badge&logo=npm&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23EEE.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Jest](https://img.shields.io/badge/-jest-%23EEE?style=for-the-badge&logo=jest&logoColor=C21325)
-![Vitest](https://img.shields.io/badge/Vitest-%23EEE.svg?style=for-the-badge&logo=vitest&logoColor=6E9F18)
+![HTML5](https://img.shields.io/badge/html5-%23EEE.svg?style=for-the-badge&logo=html5&logoColor=E34F26)
+![Markdown](https://img.shields.io/badge/markdown-%23EEE.svg?style=for-the-badge&logo=markdown&logoColor=000000)
+![MongoDB](https://img.shields.io/badge/MongoDB-%23EEE.svg?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/mysql-%23EEE.svg?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Node](https://img.shields.io/badge/Node.js-%23EEE.svg?style=for-the-badge&logo=node.js&logoColor=339933)
+![NPM](https://img.shields.io/badge/NPM-%23EEE.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23EEE.svg?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Sass](https://img.shields.io/badge/Sass-%23EEE.svg?style=for-the-badge&logo=sass&logoColor=CC6699)
+![TypeScript](https://img.shields.io/badge/typescript-%23EEE.svg?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-%23EEE.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
+![Vitest](https://img.shields.io/badge/Vitest-%23EEE.svg?style=for-the-badge&logo=vitest&logoColor=6E9F18)
 
 &nbsp;
 
 ###### "Sunsetting" Tech (I focus on helping teams migrate from these onto better tools)
 ![React](https://img.shields.io/badge/React-%23FFF.svg?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Redux](https://img.shields.io/badge/Redux-%23FFF.svg?style=for-the-badge&logo=redux&logoColor=764ABC)
-![Node](https://img.shields.io/badge/Node.js-%23FFF.svg?style=for-the-badge&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-%23FFF.svg?style=for-the-badge&logo=express&logoColor=000)
 
 ###### Fully-Retired Tech (a few that I'm no longer interested in working with at all, for any price)
 ![AngularJS](https://img.shields.io/badge/AngularJS-%23FFF.svg?style=for-the-badge&logo=angularjs&logoColor=E23237) 
