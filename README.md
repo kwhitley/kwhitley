@@ -8,8 +8,6 @@ After finishing long-term roles, I like to explore the leading edge of the indus
 #### CURRENT SITUATION: 
 As of February 2023, I'm now open to explore opportunities!  I'll consider anything from full-stack design/architecture (e.g. Principal roles) to higher level vision (Director/VP) leadership roles - and bring decades of design, front-end framework and back-end systems/data/API design along with me.  My recent public work lends me especially well to companies looking to simplify their architecture stack while *increasing* scaling/load capabilities.
 
-or even discuss [hopefully not] taking a bath on comp to explore areas that align with my potential future projects - namely realtime engines and VR development.
-
 ### CONTACT
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kevinrwhitley)
 [![GitHub](https://img.shields.io/badge/github-%23EEE.svg?style=for-the-badge&logo=github&logoColor=121011)](https://github.com/kwhitley)
