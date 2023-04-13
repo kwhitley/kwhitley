@@ -2,12 +2,6 @@
 
 I'm an open-source developer, cloud architect, and system designer. I design and build products from end-to-end, with a focus on global-availability, scaling without effort, and simplicity of design. My open source JS libraries net around 3.5 million downloads per year, with a focus on making code more human-readable. I’m passionate about improving development velocity and time of [idea] execution.  This means I release a lot of the developer tooling I create along my journey in producing performant, sexy consumer applications.  My absolute favorite thing is deleting code - mine, yours, it doesn't matter!  I believe the shorter (and more readable) we make our code - the less effort our future selves (or anyone else) will have in modifying it later.
 
-#### 2022 has been awesome!
-After finishing long-term roles, I like to explore the leading edge of the industry at my own expense/risk, to bring better-informed decisions to my next role. As you may expect, this means I took the entirety of 2022 off to pursue my own research projects within serverless architecture, producing a series of B2C ([itty.sh](https://itty.sh), [itty.cards](https://itty.cards)) and B2B ([OTP Garden](https://otpgarden.com), and not-yet-public [financial neuro-evolution models](https://swarm.trade)) apps/ideas, while publishing several open source libraries within the itty (router) ecosystem.  
-
-#### CURRENT SITUATION: 
-As of February 2023, I'm now open to explore opportunities!  I'll consider anything from full-stack design/architecture (e.g. Principal roles) to higher level vision (Director/VP) leadership roles - and bring decades of design, front-end framework and back-end systems/data/API design along with me.  My recent public work lends me especially well to companies looking to simplify their architecture stack while *increasing* scaling/load capabilities.
-
 ### CONTACT
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kevinrwhitley)
 [![GitHub](https://img.shields.io/badge/github-%23EEE.svg?style=for-the-badge&logo=github&logoColor=121011)](https://github.com/kwhitley)
