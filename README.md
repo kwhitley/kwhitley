@@ -19,6 +19,14 @@ Along my journey to deliver exciting public prototypes/products, I've occassiona
 - **The API is hard to change.** Changing an interface/API in production is hard.  You'll lose customers, period. What do you do about this?  Be far more thoughtful about your end-code/API design up front, because once it's live, it's very hard to change.  Don't paint yourself into a corner on day 1.
 - **Stay humble.** When I was too young/immature to know better, I used to think *I* was a rockstar; but now I've met the *real* ones. When you start to collaborate with the real leaders of our industry, it quickly humbles you. This is a good thing. :)
 
+### Focus Areas For the Future
+
+There are a few areas I've played with in the past and am dying to explore further:
+
+- Deep reinforcement learning/neuro-evolution.  I've done a fair bit of work in the applied side of neuro-evolution (specifically around financial models), and am eternally fascinated by how quickly we can evolve autonomous agents within a digital twin environment.  I have some sick demos to share in this area for anyone curious!
+- VR/MR development.  I've spent hundreds of hours (easily) within VR, and can assure you that the industry is currently content-starved.  This is a golden opportunity for creators!  Specifically, my interest centers around architectural/interior design, either in VR or possibly MR (as tools like the Quest 3 start to make that more feasible).  Designing spaces/worlds (or modifications to our own, such as say, a closet/kitchen remodel), should be much, much more accessible!
+- Game development.  Honestly I started my programming journey with Pascal/Assembler ages ago... making graphics effects and video games.  I miss this level of tactile visual feedback.  Web apps are cool and all, but just not the same!
+
 ### CONTACT
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kevinrwhitley)
 [![GitHub](https://img.shields.io/badge/github-%23EEE.svg?style=for-the-badge&logo=github&logoColor=121011)](https://github.com/kwhitley)
