@@ -1,6 +1,23 @@
 # GitHub Page of [Kevin R. Whitley](https://kevinrwhitley.com)
 
-I'm an open-source developer, cloud architect, and system designer. I design and build products from end-to-end, with a focus on global-availability, scaling without effort, and simplicity of design. My open source JS libraries net over 3 million downloads per year, with a focus on making code more human-readable. I’m passionate about improving development velocity and time of [idea] execution.  This means I release a lot of the developer tooling I create along my journey in producing performant, sexy consumer applications.  My absolute favorite thing is deleting code - mine, yours, it doesn't matter!  I believe the shorter (and more readable) we make our code - the less effort our future selves (or anyone else) will have in modifying it later.
+I'm an open-source developer, architect, and builder of ideas. 
+
+### Prototyping/Building
+I design and build products from end-to-end, with a focus on global-availability, scaling without effort (because we're all lazy at heart), and simplicity of design. If I were to claim one superpower, it would be the ability to design and execute a complete product idea, from start to finish - data design, cloud architecture, simple interface, front-end code, styling, you name it.  
+
+I'm personally a fan of minimal investment and decreasing the iteration time on early concepts, with the goal of closing that feedback loop with the product consumers as quickly as possible.
+
+### Open Source Lessons Learned
+Along my journey to deliver exciting public prototypes/products, I've occassionally been required to create tooling that didn't quite exist for the given space yet (the natural side-effect of working with emerging tools/tech).  Early in my career, one of my mentors encouraged me to polish [one such tool](https://npmjs.com/package/apicache) up and share it with the world.  Today, I routinely share my more generically-useful libraries, which has taught me many wonderful (and often humbling lessons) along the way, such as:
+
+- **Work backwards.**  Start with how you want your code/product to look/work in the most ideal world, as if it was already written.  Iterate here first, THEN make it actually work.
+- **We are all lazy.** We all want to accomplish more with less effort. This includes *thought* effort and lower cognitive loads to understand code when you see it again later.  Optimize for this!
+- **You can't please everyone.** If you attempt to do so, you'll end up pleasing no one.
+- **The most maintainable library/code is the *simplest* library/code.**  K.I.S.S.
+- **Don't obsess with developer minigames.** While fun, these largely never achieve a positive ROI compared to time wasted on them.  These include 100% test coverage, the most perfect strict typings, and the most ideal eslint files.  Spoiler: Your consumers/clients/customers don't care about any of this, and while you obsess over these, your competitor is passing you by on better features, with arguably crap code.  They'll likely win.
+- **Don't test too early.** Except in the rare case where TDD (test-driven development) is appropriate (e.g. perhaps a code competition like Advent of Code), skip testing in the early phase.  Iterate and harden the API/interface first, *then* add test coverage only when it becomes important to protect the code integrity (e.g. if users are using it, or downstream code depends on it).  Otherwise, this is a waste of time.
+- **The API is hard to change.** Changing an interface/API in production is hard.  You'll lose customers, period. What do you do about this?  Be far more thoughtful about your end-code/API design up front, because once it's live, it's very hard to change.  Don't paint yourself into a corner on day 1.
+- **Stay humble.** When I was too young/immature to know better, I used to think *I* was a rockstar; but now I've met the *real* ones. When you start to collaborate with the real leaders of our industry, it quickly humbles you. This is a good thing. :)
 
 ### CONTACT
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kevinrwhitley)
@@ -8,7 +25,7 @@ I'm an open-source developer, cloud architect, and system designer. I design and
 [![LinkedIn](https://img.shields.io/badge/linkedin-%23EEE.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/kevinrwhitley/)
 [![Portfolio](https://img.shields.io/badge/kevinrwhitley.com-%23EEE.svg?style=for-the-badge&logo=kirby&logoColor=f0c)](https://kevinrwhitley.com)
 
-### POPULAR LIBRARIES
+### MY SEMI-POPULAR LIBRARIES
 [![apicache](https://img.shields.io/npm/dw/apicache?style=for-the-badge&logo=npm&color=ded&label=apicache)](https://npmjs.com/package/apicache)
 [![itty-router](https://img.shields.io/npm/dw/itty-router?style=for-the-badge&logo=npm&color=ded&label=itty-router)](https://npmjs.com/package/itty-router)
 [![itty-router-extras](https://img.shields.io/npm/dw/itty-router-extras?style=for-the-badge&logo=npm&color=ded&label=itty-router-extras)](https://npmjs.com/package/itty-router-extras)
