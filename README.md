@@ -3,9 +3,7 @@
 I'm an open-source developer, architect, and builder of ideas. 
 
 ### Prototyping/Building
-I design and build products from end-to-end, with a focus on global-availability, scaling without effort (because we're all lazy at heart), and simplicity of design. If I were to claim one superpower, it would be the ability to design and execute a complete product idea, from start to finish - data design, cloud architecture, simple interface, front-end code, styling, you name it.  
-
-I'm personally a fan of minimal investment and decreasing the iteration time on early concepts, with the goal of closing that feedback loop with the product consumers as quickly as possible.
+I design and build products from end-to-end, with a focus on global-availability, scaling without effort (because we're all lazy at heart), and simplicity of design. I execute ideas from start to finish - data design, cloud architecture, simple interface, front-end code, styling, you name it - then I launch it or hand it off to someone else to polish up and maintain.
 
 ### Open Source Lessons Learned
 Along my journey to deliver exciting public prototypes/products, I've occassionally been required to create tooling that didn't quite exist for the given space yet (the natural side-effect of working with emerging tools/tech).  Early in my career, one of my mentors encouraged me to polish [one such tool](https://npmjs.com/package/apicache) up and share it with the world.  Today, I routinely share my more [generically-useful libraries](https://itty.dev), which has taught me many wonderful (and often humbling lessons) along the way, such as:
