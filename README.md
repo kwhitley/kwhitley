@@ -2,10 +2,10 @@
 
 I'm an open-source developer, architect, and builder of ideas. 
 
-### Prototyping/Building
-I design and build products from end-to-end, with a focus on global-availability, automatic scaling (within reason), and simplicity of design. I execute ideas from start to finish - data design, cloud architecture, simple interface, front-end code, styling, you name it - then I launch it or hand it off to someone else to polish up and maintain.
+## Prototyping/Building
+I design and build products from end-to-end, with a focus on global-availability, automatic scaling (within reason), and simplicity of design. I execute ideas from start to finish - data design, cloud architecture, simple interface, front-end code, styling, you name it - then I launch it or hand it off to long-term support teams.
 
-### Open Source Lessons Learned
+## Open Source Lessons Learned
 Along my journey to deliver exciting prototypes and products, I've occassionally needed to create tooling that didn't quite exist for the given space yet.  Early in my career, one of my mentors encouraged me to polish [one such tool](https://npmjs.com/package/apicache) up and share it with the world.  This experience paved the way, and today, I routinely share my more [generically-useful libraries](https://itty.dev).
 
 Along the way, I've learned a few things, such as:
@@ -20,7 +20,7 @@ Along the way, I've learned a few things, such as:
 - **The API is hard to change.** Changing an interface/API in production is hard.  You'll lose customers, period. What do you do about this?  Be far more thoughtful about your end-code/API design up front, because once it's live, it's very hard to change.  Don't paint yourself into a corner on day 1.
 - **Stay humble.** When I was too young/immature to know better, I used to think *I* was a rockstar; but now I've met the *real* ones. When you start to collaborate with the real leaders of our industry, it quickly humbles you. This is a good thing. :)
 
-### Focus Areas For the Future
+## Focus Areas For the Future
 
 There are a few areas I've played with in the past and am dying to explore further:
 
