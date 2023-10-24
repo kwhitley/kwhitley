@@ -1,6 +1,12 @@
 # GitHub Page of [Kevin R. Whitley](https://kevinrwhitley.com)
 
-I'm an open-source developer, architect, and builder of ideas. 
+I'm an open-source JS/TS developer, architect, and builder of ideas. 
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kevinrwhitley)
+[![GitHub](https://img.shields.io/badge/github-%23EEE.svg?style=for-the-badge&logo=github&logoColor=121011)](https://github.com/kwhitley)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%23EEE.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/kevinrwhitley/)
+[![Portfolio](https://img.shields.io/badge/kevinrwhitley.com-%23EEE.svg?style=for-the-badge&logo=kirby&logoColor=f0c)](https://kevinrwhitley.com)
+
 
 ## Prototyping/Building
 I design and build products from end-to-end, with a focus on global-availability, automatic scaling (within reason), and simplicity of design. I execute ideas from start to finish - data design, cloud architecture, simple interface, front-end code, styling, you name it - then I launch it or hand it off to long-term support teams.
@@ -30,12 +36,6 @@ There are a few areas I've played with in the past and am dying to explore furth
   
 - **VR/MR development.**  I've spent hundreds of hours (easily) within VR, and can assure you that the industry is currently content-starved.  This is a golden opportunity for creators!  Specifically, my interest centers around architectural/interior design, either in VR or possibly MR (as tools like the Quest 3 start to make that more feasible).  Designing spaces/worlds (or modifications to our own, such as say, a closet/kitchen remodel), should be much, much more accessible!
 - **Game development.** I started my programming journey with Pascal/Assembler ages ago... making graphics effects and video games.  I miss this level of tactile visual feedback.  Web apps are cool and all, but just not the same!
-
-### CONTACT
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kevinrwhitley)
-[![GitHub](https://img.shields.io/badge/github-%23EEE.svg?style=for-the-badge&logo=github&logoColor=121011)](https://github.com/kwhitley)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%23EEE.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/kevinrwhitley/)
-[![Portfolio](https://img.shields.io/badge/kevinrwhitley.com-%23EEE.svg?style=for-the-badge&logo=kirby&logoColor=f0c)](https://kevinrwhitley.com)
 
 ### MY SEMI-POPULAR LIBRARIES
 [![apicache](https://img.shields.io/npm/dw/apicache?style=for-the-badge&logo=npm&color=ded&label=apicache)](https://npmjs.com/package/apicache)
