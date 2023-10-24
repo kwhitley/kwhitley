@@ -11,7 +11,7 @@ Along my journey to deliver exciting prototypes and products, I've occassionally
 Along the way, I've learned a few things, such as:
 
 - **Work backwards.**  Start with how you want your code/product to look/work in the most ideal world, as if it was already written.  Iterate here first, THEN make it actually work.
-- **We are all lazy.** We all want to accomplish more with less effort. This includes *thought* effort and lower cognitive loads to understand code when you see it again later.  Optimize for this!
+- **Everyone is lazy.** We all want to accomplish more with less effort. Whether developing code for developers (DX) or users (UX), keep this in mind.  Do you enable them to achieve more, while doing less... or thinking less?  If so, you're probably on the right track!
 - **You can't please everyone.** If you attempt to do so, you'll end up pleasing no one.  Instead of making a generic tool that does a lot of things OK, consider making a great one that does a one or two things exceptionally.  This will help in the next point...
 - **The most maintainable library/code is the *simplest* library/code.**  K.I.S.S.
 - **Don't obsess with developer minigames.** These include all the things we insist we need to develop (e.g. the most perfect Types/hinting, TypeSafe everything, the most perfect eslint rules, etc. Spoiler: Your consumers/clients/customers don't care about any of this, and many successful products have been launched before any of this stuff existed.  Save it for later!
