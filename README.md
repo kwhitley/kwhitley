@@ -11,7 +11,7 @@ I'm an open-source JS/TS developer, architect, and builder of ideas.
 I design and build products from end-to-end, with a focus on global-availability, automatic scaling (within reason), and simplicity of design. I execute ideas from start to finish - data design, cloud architecture, simple interface, front-end code, styling, you name it - then I launch it or hand it off to long-term support teams.
 
 ## Open Source
-While building various ideas, I find the occasional gap in the ecosystem... usually with the goal of simplifying existing, but more-verbose/complicated patterns, or simply reducing dependency/bundle size.  I believe in tiny, single-purpose libraries that handle most cases, most of the time, rather than Swiss-army-knife libraries that attempt to handle all things, all of the time.  Here are a few of my more popular ones:
+While building various ideas, I find the occasional gap in the ecosystem and publish a library; usually with the goal of simplifying existing verbose patterns.  My goal is always lightweight interfaces that seem pretty intuitive, and less "code-like".  Here are a few of my more popular ones:
 
 ### MY SEMI-POPULAR LIBRARIES
 [![apicache](https://img.shields.io/npm/dw/apicache?style=for-the-badge&logo=npm&color=ded&label=apicache)](https://npmjs.com/package/apicache)
