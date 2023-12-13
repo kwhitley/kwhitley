@@ -7,35 +7,8 @@ I'm an open-source JS/TS developer, architect, and builder of ideas.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%23EEE.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/kevinrwhitley/)
 [![Portfolio](https://img.shields.io/badge/kevinrwhitley.com-%23EEE.svg?style=for-the-badge&logo=kirby&logoColor=f0c)](https://kevinrwhitley.com)
 
-
 ## Prototyping/Building
 I design and build products from end-to-end, with a focus on global-availability, automatic scaling (within reason), and simplicity of design. I execute ideas from start to finish - data design, cloud architecture, simple interface, front-end code, styling, you name it - then I launch it or hand it off to long-term support teams.
-
-## Open Source Lessons Learned
-Along my journey to deliver exciting prototypes and products, I've occassionally needed to create tooling that didn't quite exist for the given space yet.  Early in my career, one of my mentors encouraged me to polish [one such tool](https://npmjs.com/package/apicache) up and share it with the world.  This experience paved the way, and today, I routinely share my more [generically-useful libraries](https://itty.dev).
-
-Along the way, I've learned a few things, such as:
-
-- **Work backwards.**  Start with how you want your code/product to look/work in the most ideal world, as if it was already written.  Iterate here first, THEN make it actually work.
-- **Everyone is lazy.** We all want to accomplish more with less effort. Whether developing code for developers (DX) or users (UX), keep this in mind.  Do you enable them to achieve more, while doing less... or thinking less?  If so, you're probably on the right track!
-- **You can't please everyone.** If you attempt to do so, you'll end up pleasing no one.  Instead of making a generic tool that does a lot of things OK, consider making a great one that does a one or two things exceptionally.  This will help in the next point...
-- **The most maintainable library/code is the *simplest* library/code.**  K.I.S.S.
-- **Don't obsess with developer minigames.** These include all the things we insist we need to develop, for example the most perfect Types/hinting, type-safe APIs, the most perfect eslint rules, etc. 
-
-  _Spoiler: Your consumers/clients/customers don't care about any of this, and many successful products have been launched before any of this stuff existed.  Save it for later!_
-- **Don't test too early...** Except in the rare case where TDD (test-driven development) is appropriate (e.g. perhaps a code competition like Advent of Code), skip testing in the early phase.  Iterate and harden the API/interface first, *then* add test coverage only when it becomes important to protect the code integrity (e.g. if users are using it, or downstream code depends on it).  Otherwise, this is a waste of time.
-- **...but don't ignore testing.** Every tool has its place.  If you look at my open source libs, you'll notice many have 100% coverage with hundreds of tests to cover only a few lines of code.  This is because users don't like their experience to break just because we add a cool new feature.  Protect them from yourself!
-- **The API is hard to change.** Changing an interface/API in production is hard.  You'll lose customers, period. What do you do about this?  Be far more thoughtful about your end-code/API design up front, because once it's live, it's very hard to change.  Don't paint yourself into a corner on day 1.
-- **Stay connected and stay humble.** When I was too young/immature to know better, I used to think *I* was a rockstar; but now I've met the *real* ones. When you start to collaborate with the real leaders of our industry, it quickly humbles you. This is a good thing. 
-
-## Focus Areas For the Future
-
-There are a few areas I've played with in the past and am dying to explore further:
-
-- **Deep reinforcement learning/neuro-evolution.**  I've done a fair bit of work in the applied side of neuro-evolution (specifically around financial models), and am eternally fascinated by how quickly we can evolve autonomous agents within a digital twin environment.  I have some sick demos to share in this area for anyone curious!
-  
-- **VR/MR development.**  I've spent hundreds of hours (easily) within VR, and can assure you that the industry is currently content-starved.  This is a golden opportunity for creators!  Specifically, my interest centers around architectural/interior design, either in VR or possibly MR (as tools like the Quest 3 start to make that more feasible).  Designing spaces/worlds (or modifications to our own, such as say, a closet/kitchen remodel), should be much, much more accessible!
-- **Game development.** I started my programming journey with Pascal/Assembler ages ago... making graphics effects and video games.  I miss this level of tactile visual feedback.  Web apps are cool and all, but just not the same!
 
 ### MY SEMI-POPULAR LIBRARIES
 [![apicache](https://img.shields.io/npm/dw/apicache?style=for-the-badge&logo=npm&color=ded&label=apicache)](https://npmjs.com/package/apicache)
