@@ -23,16 +23,16 @@ While building various ideas, I find the occasional gap in the ecosystem and pub
 [![treeize](https://img.shields.io/npm/dw/treeize?style=for-the-badge&logo=npm&color=ded&label=treeize)](https://npmjs.com/package/treeize)
 
 ### CURRENT STACK
-![Vite](https://img.shields.io/badge/Vite-%23EEE.svg?style=for-the-badge&logo=vite&logoColor=646CFF)
-![SvelteKit](https://img.shields.io/badge/Svelte/Kit-%23EEE.svg?style=for-the-badge&logo=svelte&logoColor=FF3E00)
-![Bun](https://img.shields.io/badge/Bun-%23EEE.svg?style=for-the-badge&logo=bun&logoColor=FFE)
-
 ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare-Pages-%23f38020.svg?style=for-the-badge&logo=cloudflare&logoColor=f38020)
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-%23f38020.svg?style=for-the-badge&logo=cloudflare&logoColor=f38020)
 ![Cloudflare Durable Objects](https://img.shields.io/badge/Cloudflare-Durable%20Objects-%23f38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white&logoColor=f38020)
 ![Cloudflare KV](https://img.shields.io/badge/Cloudflare-KV-%23f38020.svg?style=for-the-badge&logo=cloudflare&logoColor=f38020)
 ![Cloudflare R2](https://img.shields.io/badge/Cloudflare-R2-%23f38020.svg?style=for-the-badge&logo=cloudflare&logoColor=f38020)
 ![Supabase](https://img.shields.io/badge/Supabase-%23EEE.svg?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+
+![Vite](https://img.shields.io/badge/Vite-%23EEE.svg?style=for-the-badge&logo=vite&logoColor=646CFF)
+![SvelteKit](https://img.shields.io/badge/Svelte/Kit-%23EEE.svg?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+![Bun](https://img.shields.io/badge/Bun-%23EEE.svg?style=for-the-badge&logo=bun&logoColor=FFE)
 
 ##### THE OBVIOUS STUFF
 ![CSS3](https://img.shields.io/badge/css3-%23EEE.svg?style=for-the-badge&logo=css3&logoColor=1572B6)
