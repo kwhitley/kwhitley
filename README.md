@@ -52,18 +52,8 @@ While building various ideas, I find the occasional gap in the ecosystem and pub
 ![Node](https://img.shields.io/badge/Node.js-%23EEE.svg?style=for-the-badge&logo=node.js&logoColor=339933)
 ![NPM](https://img.shields.io/badge/NPM-%23EEE.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23EEE.svg?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![React](https://img.shields.io/badge/React-%23FFF.svg?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Sass](https://img.shields.io/badge/Sass-%23EEE.svg?style=for-the-badge&logo=sass&logoColor=CC6699)
 ![TypeScript](https://img.shields.io/badge/typescript-%23EEE.svg?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-%23EEE.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
 ![Vitest](https://img.shields.io/badge/Vitest-%23EEE.svg?style=for-the-badge&logo=vitest&logoColor=6E9F18)
-
-&nbsp;
-
-###### "Sunsetting" Tech (I focus on helping teams migrate from these onto better tools)
-![React](https://img.shields.io/badge/React-%23FFF.svg?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![Redux](https://img.shields.io/badge/Redux-%23FFF.svg?style=for-the-badge&logo=redux&logoColor=764ABC)
-
-###### Fully-Retired Tech (a few that I'm no longer interested in working with at all, for any price)
-![AngularJS](https://img.shields.io/badge/AngularJS-%23FFF.svg?style=for-the-badge&logo=angularjs&logoColor=E23237) 
-![PHP](https://img.shields.io/badge/PHP-%23FFF.svg?style=for-the-badge&logo=php&logoColor=777BB4) 
-![.NET](https://img.shields.io/badge/.NET-%23FFF.svg?style=for-the-badge&logo=.net&logoColor=512BD4)
