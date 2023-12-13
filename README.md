@@ -52,7 +52,7 @@ While building various ideas, I find the occasional gap in the ecosystem and pub
 ![Node](https://img.shields.io/badge/Node.js-%23EEE.svg?style=for-the-badge&logo=node.js&logoColor=339933)
 ![NPM](https://img.shields.io/badge/NPM-%23EEE.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23EEE.svg?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![React](https://img.shields.io/badge/React-%23FFF.svg?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![React](https://img.shields.io/badge/React-%23EEE.svg?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Sass](https://img.shields.io/badge/Sass-%23EEE.svg?style=for-the-badge&logo=sass&logoColor=CC6699)
 ![TypeScript](https://img.shields.io/badge/typescript-%23EEE.svg?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-%23EEE.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
