@@ -13,14 +13,14 @@ I design and build products from end-to-end, with a focus on global-availability
 ## Open Source
 While building various ideas, I find the occasional gap in the ecosystem and publish a library; usually with the goal of simplifying existing verbose patterns.  My goal is always lightweight interfaces that seem pretty intuitive, and less "code-like".  Here are a few of my more popular ones:
 
-### MY SEMI-POPULAR LIBRARIES
-[![apicache](https://img.shields.io/npm/dw/apicache?style=for-the-badge&logo=npm&color=ded&label=apicache)](https://npmjs.com/package/apicache)
+### A FEW OF MY LIBRARIES
 [![itty-router](https://img.shields.io/npm/dw/itty-router?style=for-the-badge&logo=npm&color=ded&label=itty-router)](https://npmjs.com/package/itty-router)
 [![itty-router-extras](https://img.shields.io/npm/dw/itty-router-extras?style=for-the-badge&logo=npm&color=ded&label=itty-router-extras)](https://npmjs.com/package/itty-router-extras)
 [![itty-cors](https://img.shields.io/npm/dw/itty-cors?style=for-the-badge&logo=npm&color=ded&label=itty-cors)](https://npmjs.com/package/itty-cors)
 [![itty-durable](https://img.shields.io/npm/dw/itty-durable?style=for-the-badge&logo=npm&color=ded&label=itty-durable)](https://npmjs.com/package/itty-durable)
 [![itty-fetcher](https://img.shields.io/npm/dw/itty-fetcher?style=for-the-badge&logo=npm&color=ded&label=itty-fetcher)](https://npmjs.com/package/itty-fetcher)
 [![treeize](https://img.shields.io/npm/dw/treeize?style=for-the-badge&logo=npm&color=ded&label=treeize)](https://npmjs.com/package/treeize)
+[![apicache](https://img.shields.io/npm/dw/apicache?style=for-the-badge&logo=npm&color=ded&label=apicache)](https://npmjs.com/package/apicache)
 
 ### CURRENT STACK
 ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare-Pages-%23f38020.svg?style=for-the-badge&logo=cloudflare&logoColor=f38020)
