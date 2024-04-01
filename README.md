@@ -1,17 +1,19 @@
 # GitHub Page of [Kevin R. Whitley](https://kevinrwhitley.com)
 
-I'm an open-source JS/TS developer, architect, and builder of ideas. 
+I'm an open-source JS/TS developer, architect, and builder. Creator of [itty.dev](https://itty.dev) and [itty-router](https://npmjs.com/package/itty-router).
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kevinrwhitley)
 [![GitHub](https://img.shields.io/badge/github-%23EEE.svg?style=for-the-badge&logo=github&logoColor=121011)](https://github.com/kwhitley)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%23EEE.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/kevinrwhitley/)
 [![Portfolio](https://img.shields.io/badge/kevinrwhitley.com-%23EEE.svg?style=for-the-badge&logo=kirby&logoColor=f0c)](https://kevinrwhitley.com)
 
-## Prototyping/Building
-I design and build products from end-to-end, with a focus on global-availability, automatic scaling (within reason), and simplicity of design. I execute ideas from start to finish - data design, cloud architecture, simple interface, front-end code, styling, you name it - then I launch it or hand it off to long-term support teams.
+## What am I working on?
+Like you, whenever I build, I reach for existing tools to save time.  When those don't yet exist, or I'm unhappy with the interface provided, I <strike><em>waste a lot of time building</em></strike> build them so that the next person might not have to.
 
-## Open Source
-While building various ideas, I find the occasional gap in the ecosystem and publish a library; usually with the goal of simplifying existing verbose patterns.  My goal is always lightweight interfaces that seem pretty intuitive, and less "code-like".  Here are a few of my more popular ones:
+With that in mind, I'm building an [ecosystem of tiny microlibraries](https://itty.dev) to replace heavier options in the lean world of edge-serverless, and [fostering a community](https://discord.gg/53vyrZAu9u) around this goal.
+
+## What's next?
+I love asking myself "what's cool, but hard to do?".  Right now, it's websockets and real-time communication layers in general.  I'm targeting those next, so stay tuned!
 
 ### A FEW OF MY LIBRARIES
 [![itty-router](https://img.shields.io/npm/dw/itty-router?style=for-the-badge&logo=npm&color=ded&label=itty-router)](https://npmjs.com/package/itty-router)
