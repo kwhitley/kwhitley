@@ -5,7 +5,7 @@ I'm an open-source JS/TS developer, architect, and builder. Creator of [itty.dev
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kevinrwhitley)
 [![GitHub](https://img.shields.io/badge/github-%23EEE.svg?style=for-the-badge&logo=github&logoColor=121011)](https://github.com/kwhitley)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%23EEE.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/kevinrwhitley/)
-[![Portfolio](https://img.shields.io/badge/kevinrwhitley.com-%23EEE.svg?style=for-the-badge&logo=kirby&logoColor=f0c)](https://kevinrwhitley.com)
+[![Portfolio](https://img.shields.io/badge/kwhitley.com-%23EEE.svg?style=for-the-badge&logo=kirby&logoColor=f0c)](https://kwhitley.com)
 
 ## What am I working on?
 Like you, whenever I build, I reach for existing tools to save time.  When those don't yet exist, or I'm unhappy with the interface provided, I <strike><em>waste a lot of time building</em></strike> build them so that the next person might not have to.
