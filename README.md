@@ -2,20 +2,20 @@
 
 I'm an open-source JS/TS developer, architect, and builder. Creator of [itty.dev](https://itty.dev) and [itty-router](https://npmjs.com/package/itty-router).
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kevinrwhitley)
-[![GitHub](https://img.shields.io/badge/github-%23EEE.svg?style=for-the-badge&logo=github&logoColor=121011)](https://github.com/kwhitley)
+[![BlueSky](https://img.shields.io/badge/BlueSky-%230285FF.svg?style=for-the-badge&logo=BlueSky&logoColor=white)](https://bsky.app/profile/itty.dev)
+[![Twitter](https://img.shields.io/badge/Twitter/X-%23555.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/kevinrwhitley)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%23EEE.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/kevinrwhitley/)
 [![Portfolio](https://img.shields.io/badge/kwhitley.com-%23EEE.svg?style=for-the-badge&logo=kirby&logoColor=f0c)](https://kwhitley.com)
 
-## What's next?
-I'm on a side quest. :)
-
-### A FEW OF MY LIBRARIES
+### [ITTY.DEV](https://itty.dev/docs) LIBRARIES
 [![itty-time](https://img.shields.io/npm/dw/itty-time?style=for-the-badge&logo=npm&color=ded&label=itty-time)](https://npmjs.com/package/itty-time)
 [![itty-router](https://img.shields.io/npm/dw/itty-router?style=for-the-badge&logo=npm&color=ded&label=itty-router)](https://npmjs.com/package/itty-router)
+[![itty-sockets](https://img.shields.io/npm/dw/itty-sockets?style=for-the-badge&logo=npm&color=ded&label=itty-sockets)](https://npmjs.com/package/itty-sockets)
 [![itty-chroma](https://img.shields.io/npm/dw/itty-chroma?style=for-the-badge&logo=npm&color=ded&label=itty-chroma)](https://npmjs.com/package/itty-chroma)
-[![itty-durable](https://img.shields.io/npm/dw/itty-durable?style=for-the-badge&logo=npm&color=ded&label=itty-durable)](https://npmjs.com/package/itty-durable)
 [![itty-fetcher](https://img.shields.io/npm/dw/itty-fetcher?style=for-the-badge&logo=npm&color=ded&label=itty-fetcher)](https://npmjs.com/package/itty-fetcher)
+[![itty-durable](https://img.shields.io/npm/dw/itty-durable?style=for-the-badge&logo=npm&color=ded&label=itty-durable)](https://npmjs.com/package/itty-durable)<sup> (deprecated)</sup>
+
+#### OTHER OS LIBS
 [![treeize](https://img.shields.io/npm/dw/treeize?style=for-the-badge&logo=npm&color=ded&label=treeize)](https://npmjs.com/package/treeize)
 [![apicache](https://img.shields.io/npm/dw/apicache?style=for-the-badge&logo=npm&color=ded&label=apicache)](https://npmjs.com/package/apicache)
 
