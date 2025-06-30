@@ -27,7 +27,6 @@ I'm an open-source JS/TS developer, architect, and builder. Creator of [itty.dev
 ![Cloudflare R2](https://img.shields.io/badge/Cloudflare-R2-%23f38020.svg?style=for-the-badge&logo=cloudflare&logoColor=f38020)
 ![Bun](https://img.shields.io/badge/Bun-%23EEE.svg?style=for-the-badge&logo=bun&logoColor=FFE)
 ![Svelte](https://img.shields.io/badge/SvelteJS+Kit-%23EEE.svg?style=for-the-badge&logo=svelte&logoColor=FF3E00)
-![Vite](https://img.shields.io/badge/Vite-%23EEE.svg?style=for-the-badge&logo=vite&logoColor=646CFF)
 
 ### WORK STACK
 ![React](https://img.shields.io/badge/React-%23EEE.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -53,6 +52,7 @@ I'm an open-source JS/TS developer, architect, and builder. Creator of [itty.dev
 ![Supabase](https://img.shields.io/badge/Supabase-%23EEE.svg?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23EEE.svg?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-%23EEE.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
+![Vite](https://img.shields.io/badge/Vite-%23EEE.svg?style=for-the-badge&logo=vite&logoColor=646CFF)
 ![Vitest](https://img.shields.io/badge/Vitest-%23EEE.svg?style=for-the-badge&logo=vitest&logoColor=6E9F18)
 
 ##### NEXT UP / INTERESTED
