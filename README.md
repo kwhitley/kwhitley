@@ -26,8 +26,8 @@ I'm an open-source JS/TS developer, architect, and builder. Creator of [itty.dev
 ![Cloudflare KV](https://img.shields.io/badge/Cloudflare-KV-%23f38020.svg?style=for-the-badge&logo=cloudflare&logoColor=f38020)
 ![Cloudflare R2](https://img.shields.io/badge/Cloudflare-R2-%23f38020.svg?style=for-the-badge&logo=cloudflare&logoColor=f38020)
 ![Bun](https://img.shields.io/badge/Bun-%23EEE.svg?style=for-the-badge&logo=bun&logoColor=FFE)
-![Vite](https://img.shields.io/badge/Vite-%23EEE.svg?style=for-the-badge&logo=vite&logoColor=646CFF)
 ![Svelte](https://img.shields.io/badge/SvelteJS+Kit-%23EEE.svg?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+![Vite](https://img.shields.io/badge/Vite-%23EEE.svg?style=for-the-badge&logo=vite&logoColor=646CFF)
 
 ### WORK STACK
 ![React](https://img.shields.io/badge/React-%23EEE.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
