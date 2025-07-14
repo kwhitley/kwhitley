@@ -24,7 +24,7 @@ I'm an open-source JS/TS developer, architect, and builder. Creator of [itty.dev
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-%23f38020.svg?style=for-the-badge&logo=cloudflare&logoColor=f38020)
 ![Cloudflare Durable Objects](https://img.shields.io/badge/Cloudflare-Durable%20Objects-%23f38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white&logoColor=f38020)
 ![Cloudflare KV](https://img.shields.io/badge/Cloudflare-KV-%23f38020.svg?style=for-the-badge&logo=cloudflare&logoColor=f38020)
-![Cloudflare R2](https://img.shields.io/badge/Cloudflare-R2-%23f38020.svg?style=for-the-badge&logo=cloudflare&logoColor=f38020)
+![Cloudflare R2](https://img.shields.io/badge/Cloudflare-R2-%23f38020.svg?style=for-the-badge&logo=cloudflare&logoColor=f38020)  
 ![TypeScript](https://img.shields.io/badge/typescript-%23EEE.svg?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Bun](https://img.shields.io/badge/Bun-%23EEE.svg?style=for-the-badge&logo=bun&logoColor=FFE)
 ![Svelte](https://img.shields.io/badge/SvelteJS+Kit-%23EEE.svg?style=for-the-badge&logo=svelte&logoColor=FF3E00)
@@ -32,7 +32,13 @@ I'm an open-source JS/TS developer, architect, and builder. Creator of [itty.dev
 ### WORK STACK
 ![TypeScript](https://img.shields.io/badge/typescript-%23EEE.svg?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![React](https://img.shields.io/badge/React-%23EEE.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next](https://img.shields.io/badge/Next.js-%23EEE.svg?style=for-the-badge&logo=next.js&logoColor=000)  
+![Next](https://img.shields.io/badge/Next.js-%23EEE.svg?style=for-the-badge&logo=next.js&logoColor=000)
+
+### AI STACK
+[![Claude.ai](https://img.shields.io/badge/Claude.ai-%23EEE.svg?style=for-the-badge&logo=claude&logoColor=D97757)](https://claude.ai)
+[![Claude Code CLI](https://img.shields.io/badge/Claude%20Code%20(CLI)-%23EEE.svg?style=for-the-badge&logo=claude&logoColor=D97757)](https://claude.ai)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-%23EEE.svg?style=for-the-badge&logo=openai&logoColor=412991)](https://chatgpt.com)
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-%23EEE.svg?style=for-the-badge&logo=google-gemini&logoColor=412991)](https://gemini.google.com)<sup> (as Cursor agent)</sup>
 
 ##### THE OBVIOUS STUFF
 ![CSS](https://img.shields.io/badge/css-%23EEE.svg?style=for-the-badge&logo=css&logoColor=663399)
