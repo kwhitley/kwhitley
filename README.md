@@ -67,4 +67,5 @@ I'm an open-source JS/TS developer, architect, and builder. Creator of [itty.dev
 ![Swift](https://img.shields.io/badge/Swift-%23EEE.svg?style=for-the-badge&logo=swift&logoColor=F05138)
 ![Unity](https://img.shields.io/badge/Unity-%23EEE.svg?style=for-the-badge&logo=unity&logoColor=000)
 ![Unreal 5](https://img.shields.io/badge/Unreal%205-%23EEE.svg?style=for-the-badge&logo=unreal%20engine&logoColor=000)
+![Blender](https://img.shields.io/badge/Blender-%23EEE.svg?style=for-the-badge&logo=blender&logoColor=E87D0D)
 
