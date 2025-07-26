@@ -13,6 +13,7 @@ I'm an open-source JS/TS developer, architect, and builder. Creator of [itty.dev
 [![itty-fetcher](https://img.shields.io/npm/dw/itty-fetcher?style=for-the-badge&logo=npm&color=ded&label=itty-fetcher)](https://npmjs.com/package/itty-fetcher)
 [![itty-sockets](https://img.shields.io/npm/dw/itty-sockets?style=for-the-badge&logo=npm&color=ded&label=itty-sockets)](https://npmjs.com/package/itty-sockets)
 [![itty-chroma](https://img.shields.io/npm/dw/itty-chroma?style=for-the-badge&logo=npm&color=ded&label=itty-chroma)](https://npmjs.com/package/itty-chroma)
+[![itty-packager](https://img.shields.io/npm/dw/itty-packager?style=for-the-badge&logo=npm&color=ded&label=itty-packager)](https://npmjs.com/package/itty-packager)
 [![itty-durable](https://img.shields.io/npm/dw/itty-durable?style=for-the-badge&logo=npm&color=ded&label=itty-durable)](https://npmjs.com/package/itty-durable)<sup> (deprecated)</sup>
 
 ### NON-ITTY LIBRARIES
