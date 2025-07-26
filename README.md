@@ -14,7 +14,7 @@ I'm an open-source JS/TS developer, architect, and builder. Creator of [itty.dev
 [![itty-sockets](https://img.shields.io/npm/dw/itty-sockets?style=for-the-badge&logo=npm&color=ded&label=itty-sockets)](https://npmjs.com/package/itty-sockets)
 [![itty-chroma](https://img.shields.io/npm/dw/itty-chroma?style=for-the-badge&logo=npm&color=ded&label=itty-chroma)](https://npmjs.com/package/itty-chroma)
 [![itty-packager](https://img.shields.io/npm/dw/itty-packager?style=for-the-badge&logo=npm&color=ded&label=itty-packager)](https://npmjs.com/package/itty-packager)
-[![itty-durable](https://img.shields.io/npm/dw/itty-durable?style=for-the-badge&logo=npm&color=ded&label=itty-durable)](https://npmjs.com/package/itty-durable)<sup> (deprecated)</sup>
+[![itty-durable](https://img.shields.io/npm/dw/itty-durable?style=for-the-badge&logo=npm&color=eee&label=itty-durable)](https://npmjs.com/package/itty-durable)<sup> (deprecated)</sup>
 
 ### NON-ITTY LIBRARIES
 [![treeize](https://img.shields.io/npm/dw/treeize?style=for-the-badge&logo=npm&color=ded&label=treeize)](https://npmjs.com/package/treeize)
