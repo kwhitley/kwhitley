@@ -2,7 +2,7 @@
 
 I'm an open-source JS/TS developer, architect, and builder. Creator of [itty.dev](https://itty.dev) and [itty-router](https://npmjs.com/package/itty-router).
 
-[![Twitter](https://img.shields.io/badge/Twitter/X-%23555.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/kevinrwhitley)
+[![Twitter](https://img.shields.io/badge/Twitter/X-%23333.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/kevinrwhitley)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%23EEE.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/kevinrwhitley/)
 [![Portfolio](https://img.shields.io/badge/kwhitley.com-%23EEE.svg?style=for-the-badge&logo=kirby&logoColor=f0c)](https://kwhitley.com)
 
