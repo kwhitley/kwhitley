@@ -27,7 +27,7 @@ I'm an open-source JS/TS developer, architect, and builder. Creator of [itty.dev
 ![Cloudflare R2](https://img.shields.io/badge/Cloudflare-R2-%23f38020.svg?style=for-the-badge&logo=cloudflare&logoColor=f38020)  
 ![TypeScript](https://img.shields.io/badge/typescript-%23EEE.svg?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Bun](https://img.shields.io/badge/Bun-%23EEE.svg?style=for-the-badge&logo=bun&logoColor=FFE)
-![Svelte](https://img.shields.io/badge/SvelteJS+Kit-%23EEE.svg?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+![Svelte](https://img.shields.io/badge/Svelte-%23EEE.svg?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 
 ### WORK STACK
 ![TypeScript](https://img.shields.io/badge/typescript-%23EEE.svg?style=for-the-badge&logo=typescript&logoColor=3178C6)
