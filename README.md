@@ -4,7 +4,7 @@ I'm an open-source JS/TS developer, architect, and builder. Creator of [itty.dev
 
 [![Twitter](https://img.shields.io/badge/Twitter/X-%23222.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/kevinrwhitley)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%23EEE.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/kevinrwhitley/)
-[![Portfolio](https://img.shields.io/badge/kwhitley.com-%23EEE.svg?style=for-the-badge&logo=kirby&logoColor=f0c)](https://kwhitley.com)
+[![itty.dev](https://img.shields.io/badge/itty.dev-%23EEE.svg?style=for-the-badge&logo=kirby&logoColor=f0c)](https://itty.dev)
 
 ### [ITTY.DEV](https://itty.dev/docs) LIBRARIES
 [![itty-router](https://img.shields.io/npm/dw/itty-router?style=for-the-badge&logo=npm&color=ded&label=itty-router)](https://npmjs.com/package/itty-router)
