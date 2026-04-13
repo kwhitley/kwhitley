@@ -22,50 +22,48 @@ Then I code-golf the implementation until it barely exists: not just to shrink y
 [![itty.dev](https://img.shields.io/badge/itty.dev-%23EEE.svg?style=for-the-badge&logo=kirby&logoColor=f0c)](https://itty.dev)
  
 ---
- 
-## [ITTY.DEV](https://itty.dev/docs)
- 
-[![itty-router](https://img.shields.io/npm/dw/itty-router?style=for-the-badge&logo=npm&color=ded&label=itty-router)](https://npmjs.com/package/itty-router)
-[![itty-fetcher](https://img.shields.io/npm/dw/itty-fetcher?style=for-the-badge&logo=npm&color=ded&label=itty-fetcher)](https://npmjs.com/package/itty-fetcher)
-[![itty-sockets](https://img.shields.io/npm/dw/itty-sockets?style=for-the-badge&logo=npm&color=ded&label=itty-sockets)](https://npmjs.com/package/itty-sockets)
-[![itty-time](https://img.shields.io/npm/dw/itty-time?style=for-the-badge&logo=npm&color=ded&label=itty-time)](https://npmjs.com/package/itty-time)
-[![itty-chroma](https://img.shields.io/npm/dw/itty-chroma?style=for-the-badge&logo=npm&color=ded&label=itty-chroma)](https://npmjs.com/package/itty-chroma)
-[![itty-packager](https://img.shields.io/npm/dw/itty-packager?style=for-the-badge&logo=npm&color=ded&label=itty-packager)](https://npmjs.com/package/itty-packager)
- 
----
- 
-## OTHER LIBRARIES
- 
-[![treeize](https://img.shields.io/npm/dw/treeize?style=for-the-badge&logo=npm&color=ded&label=treeize)](https://npmjs.com/package/treeize)
+
+
+# The [itty.dev](https://itty.dev) ecosystem
+*One philosophy: Write less code.*
+
+
+<table>
+  <tr>
+    <td align="right"><a href="https://npmjs.com/package/itty-router"><img src="https://img.shields.io/npm/dw/itty-router?style=for-the-badge&logo=npm&color=fdf&label=itty-router"></a></td>
+    <td>Write functions, not framework.</td>
+  </tr>
+  <tr>
+    <td align="right"><a href="https://npmjs.com/package/itty-time"><img src="https://img.shields.io/npm/dw/itty-time?style=for-the-badge&logo=npm&color=fdf&label=itty-time"></a></td>
+    <td>Faster than <code>ms</code>. Half the size.</td>
+  </tr>
+  <tr>
+    <td align="right"><a href="https://npmjs.com/package/itty-fetcher"><img src="https://img.shields.io/npm/dw/itty-fetcher?style=for-the-badge&logo=npm&color=fdf&label=itty-fetcher"></a></td>
+    <td>fetch(), minus the ceremony.</td>
+  </tr>
+  <tr>
+    <td align="right"><a href="https://npmjs.com/package/itty-sockets"><img src="https://img.shields.io/npm/dw/itty-sockets?style=for-the-badge&logo=npm&color=fdf&label=itty-sockets"></a></td>
+    <td>Realtime in one line of code. No accounts.</td>
+  </tr>
+  <tr>
+    <td align="right"><a href="https://npmjs.com/package/itty-chroma"><img src="https://img.shields.io/npm/dw/itty-chroma?style=for-the-badge&logo=npm&color=fdf&label=itty-chroma"></a></td>
+    <td>Color your console.</td>
+  </tr>  
+  <tr>
+    <td align="right"><a href="https://npmjs.com/package/itty-packager"><img src="https://img.shields.io/npm/dw/itty-packager?style=for-the-badge&logo=npm&color=fdf&label=itty-packager"></a></td>
+    <td>Don't worry about this little guy ;)</td>
+  </tr>
+  <tr>
+    <td align="right"><a href="https://npmjs.com/package/itty-durable"><img src="https://img.shields.io/npm/dw/itty-durable?style=for-the-badge&logo=npm&color=eee&label=itty-durable"></a></td>
+    <td>RPC layer for the early days of <br />Cloudflare Durable Objects. <em>(deprecated)</em></td>
+  </tr>
+</table>
+
+<br />
+
+## Honorable Mentions
 [![apicache](https://img.shields.io/npm/dw/apicache?style=for-the-badge&logo=npm&color=ded&label=apicache)](https://npmjs.com/package/apicache)
-
-
-
-
-
-
-
-<!--# GitHub Page of [Kevin R. Whitley](https://kevinrwhitley.com)
-
-I'm an open-source JS/TS developer, architect, and builder. Creator of [itty.dev](https://itty.dev) and [itty-router](https://npmjs.com/package/itty-router).
-
-[![Twitter](https://img.shields.io/badge/Twitter/X-%23222.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/kevinrwhitley)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%23EEE.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/kevinrwhitley/)
-[![itty.dev](https://img.shields.io/badge/itty.dev-%23EEE.svg?style=for-the-badge&logo=kirby&logoColor=f0c)](https://itty.dev)
-
-### [ITTY.DEV](https://itty.dev/docs) LIBRARIES
-[![itty-router](https://img.shields.io/npm/dw/itty-router?style=for-the-badge&logo=npm&color=ded&label=itty-router)](https://npmjs.com/package/itty-router)
-[![itty-time](https://img.shields.io/npm/dw/itty-time?style=for-the-badge&logo=npm&color=ded&label=itty-time)](https://npmjs.com/package/itty-time)
-[![itty-fetcher](https://img.shields.io/npm/dw/itty-fetcher?style=for-the-badge&logo=npm&color=ded&label=itty-fetcher)](https://npmjs.com/package/itty-fetcher)
-[![itty-sockets](https://img.shields.io/npm/dw/itty-sockets?style=for-the-badge&logo=npm&color=ded&label=itty-sockets)](https://npmjs.com/package/itty-sockets)
-[![itty-chroma](https://img.shields.io/npm/dw/itty-chroma?style=for-the-badge&logo=npm&color=ded&label=itty-chroma)](https://npmjs.com/package/itty-chroma)
-[![itty-packager](https://img.shields.io/npm/dw/itty-packager?style=for-the-badge&logo=npm&color=ded&label=itty-packager)](https://npmjs.com/package/itty-packager)
-[![itty-durable](https://img.shields.io/npm/dw/itty-durable?style=for-the-badge&logo=npm&color=eee&label=itty-durable)](https://npmjs.com/package/itty-durable)<sup> (deprecated)</sup>
-
-### NON-ITTY LIBRARIES
 [![treeize](https://img.shields.io/npm/dw/treeize?style=for-the-badge&logo=npm&color=ded&label=treeize)](https://npmjs.com/package/treeize)
-[![apicache](https://img.shields.io/npm/dw/apicache?style=for-the-badge&logo=npm&color=ded&label=apicache)](https://npmjs.com/package/apicache)
-
 
 <!--
 ### PLAY STACK
