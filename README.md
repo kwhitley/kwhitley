@@ -1,6 +1,6 @@
 # Kevin Whitley
 
-I build [open source libraries](https://itty.dev) for developers who believe code should read like prose - obvious, minimal, and free of noise.
+I build [open source libraries](https://itty.dev) for developers who believe code should read like prose: obvious, minimal, and free of noise.
 
 ### Most developers aren't lazy enough. They've just made peace with steps that shouldn't exist.
 
