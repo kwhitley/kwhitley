@@ -1,4 +1,51 @@
-# GitHub Page of [Kevin R. Whitley](https://kevinrwhitley.com)
+# Kevin Whitley
+
+I build [open source libraries](https://itty.dev) for developers who believe code should read like prose — obvious, minimal, and free of noise.
+
+### Most developers aren't lazy enough. They've just made peace with steps that shouldn't exist.
+
+When something feels tedious, I design the interface I wish existed, then build backwards until it works. Sane defaults. Gutted boilerplate. Edge cases take extra steps instead of the other way around.
+
+Then I code-golf the implementation until it barely exists: not just to shrink your bundle, but to prove a point:
+
+
+### Powerful doesn't have to mean heavy.
+
+### Simple doesn't have to mean limited.
+
+<br />
+
+...
+
+[![Twitter](https://img.shields.io/badge/Twitter/X-%23222.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/kevinrwhitley)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%23EEE.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/kevinrwhitley/)
+[![itty.dev](https://img.shields.io/badge/itty.dev-%23EEE.svg?style=for-the-badge&logo=kirby&logoColor=f0c)](https://itty.dev)
+ 
+---
+ 
+## [ITTY.DEV](https://itty.dev/docs)
+ 
+[![itty-router](https://img.shields.io/npm/dw/itty-router?style=for-the-badge&logo=npm&color=ded&label=itty-router)](https://npmjs.com/package/itty-router)
+[![itty-fetcher](https://img.shields.io/npm/dw/itty-fetcher?style=for-the-badge&logo=npm&color=ded&label=itty-fetcher)](https://npmjs.com/package/itty-fetcher)
+[![itty-sockets](https://img.shields.io/npm/dw/itty-sockets?style=for-the-badge&logo=npm&color=ded&label=itty-sockets)](https://npmjs.com/package/itty-sockets)
+[![itty-time](https://img.shields.io/npm/dw/itty-time?style=for-the-badge&logo=npm&color=ded&label=itty-time)](https://npmjs.com/package/itty-time)
+[![itty-chroma](https://img.shields.io/npm/dw/itty-chroma?style=for-the-badge&logo=npm&color=ded&label=itty-chroma)](https://npmjs.com/package/itty-chroma)
+[![itty-packager](https://img.shields.io/npm/dw/itty-packager?style=for-the-badge&logo=npm&color=ded&label=itty-packager)](https://npmjs.com/package/itty-packager)
+ 
+---
+ 
+## OTHER LIBRARIES
+ 
+[![treeize](https://img.shields.io/npm/dw/treeize?style=for-the-badge&logo=npm&color=ded&label=treeize)](https://npmjs.com/package/treeize)
+[![apicache](https://img.shields.io/npm/dw/apicache?style=for-the-badge&logo=npm&color=ded&label=apicache)](https://npmjs.com/package/apicache)
+
+
+
+
+
+
+
+<!--# GitHub Page of [Kevin R. Whitley](https://kevinrwhitley.com)
 
 I'm an open-source JS/TS developer, architect, and builder. Creator of [itty.dev](https://itty.dev) and [itty-router](https://npmjs.com/package/itty-router).
 
@@ -19,6 +66,8 @@ I'm an open-source JS/TS developer, architect, and builder. Creator of [itty.dev
 [![treeize](https://img.shields.io/npm/dw/treeize?style=for-the-badge&logo=npm&color=ded&label=treeize)](https://npmjs.com/package/treeize)
 [![apicache](https://img.shields.io/npm/dw/apicache?style=for-the-badge&logo=npm&color=ded&label=apicache)](https://npmjs.com/package/apicache)
 
+
+<!--
 ### PLAY STACK
 ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare-Pages-%23f38020.svg?style=for-the-badge&logo=cloudflare&logoColor=f38020)
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-%23f38020.svg?style=for-the-badge&logo=cloudflare&logoColor=f38020)
@@ -66,4 +115,5 @@ I'm an open-source JS/TS developer, architect, and builder. Creator of [itty.dev
 ![Unity](https://img.shields.io/badge/Unity-%23EEE.svg?style=for-the-badge&logo=unity&logoColor=000)
 ![Unreal 5](https://img.shields.io/badge/Unreal%205-%23EEE.svg?style=for-the-badge&logo=unreal%20engine&logoColor=000)
 ![Blender](https://img.shields.io/badge/Blender-%23EEE.svg?style=for-the-badge&logo=blender&logoColor=E87D0D)
+-->
 
