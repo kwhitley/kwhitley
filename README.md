@@ -2,7 +2,7 @@
 
 I build [open source libraries](https://itty.dev) for developers who believe code should read like prose: obvious, minimal, and free of noise.
 
-### Most developers aren't lazy enough. They've just made peace with steps that shouldn't exist.
+### Most developers aren't lazy enough. Or rather, library authors haven't allowed them to be.
 
 When something feels tedious, I design the interface I wish existed, then build backwards until it works. Sane defaults. Gutted boilerplate. Edge cases take extra steps instead of the other way around.
 
