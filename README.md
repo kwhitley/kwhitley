@@ -11,8 +11,6 @@ Then I code-golf the implementation until it barely exists. Not just to shrink y
 
 ### Powerful doesn't have to mean heavy.
 
-### Simple doesn't have to mean limited.
-
 <br />
 
 ...
