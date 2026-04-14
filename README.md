@@ -50,7 +50,7 @@ Then I code-golf the implementation until it barely exists: not just to shrink y
     <td>Color your console.</td>
   </tr>  
   <tr>
-    <td align="right"><a href="https://npmjs.com/package/itty-packager"><img src="https://img.shields.io/npm/dw/itty-packager?style=for-the-badge&logo=npm&color=fdf&label=itty-packager"></a></td>
+    <td align="right"><a href="https://npmjs.com/package/itty-packager"><img src="https://img.shields.io/npm/dw/itty-packager?style=for-the-badge&logo=npm&color=eee&label=itty-packager"></a></td>
     <td>Don't worry about this little guy ;)</td>
   </tr>
   <tr>
