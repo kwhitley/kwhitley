@@ -4,7 +4,7 @@ I build [open source libraries](https://itty.dev) for developers who believe cod
 
 ### Most developers aren't lazy enough. Or rather, library authors haven't allowed them to be.
 
-When something feels tedious, I design the interface I wish existed, then build backwards until it works. Sane defaults. Gutted boilerplate. Edge cases require the extra work, not everyone else.
+When code feels messy, I design what I *wish* I could write instead, then build backwards until it works. Sane defaults. Gutted boilerplate. Edge cases require the extra work, not everyone else.
 
 Then I code-golf the implementation until it barely exists. Not just to shrink your bundle, but to prove a point:
 
