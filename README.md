@@ -6,7 +6,7 @@ I build [open source libraries](https://itty.dev) for developers who believe cod
 
 When something feels tedious, I design the interface I wish existed, then build backwards until it works. Sane defaults. Gutted boilerplate. Edge cases take extra steps instead of the other way around.
 
-Then I code-golf the implementation until it barely exists: not just to shrink your bundle, but to prove a point:
+Then I code-golf the implementation until it barely exists. Not just to shrink your bundle, but to prove a point:
 
 
 ### Powerful doesn't have to mean heavy.
