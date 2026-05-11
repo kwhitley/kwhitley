@@ -37,11 +37,11 @@ Then I code-golf the implementation until it barely exists. Not just to shrink y
   </tr>
   <tr>
     <td align="right"><a href="https://npmjs.com/package/itty-fetcher"><img src="https://img.shields.io/npm/dw/itty-fetcher?style=for-the-badge&logo=npm&color=fdf&label=itty-fetcher"></a></td>
-    <td>fetch(), minus the ceremony.</td>
+    <td>The fetch() code you already write.</td>
   </tr>
   <tr>
     <td align="right"><a href="https://npmjs.com/package/itty-sockets"><img src="https://img.shields.io/npm/dw/itty-sockets?style=for-the-badge&logo=npm&color=fdf&label=itty-sockets"></a></td>
-    <td>Realtime in one line of code. No accounts.</td>
+    <td>Realtime in one line of code and no accounts.</td>
   </tr>
   <tr>
     <td align="right"><a href="https://npmjs.com/package/itty-chroma"><img src="https://img.shields.io/npm/dw/itty-chroma?style=for-the-badge&logo=npm&color=fdf&label=itty-chroma"></a></td>
