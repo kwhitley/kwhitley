@@ -29,7 +29,7 @@ Then I code-golf the implementation until it barely exists. Not just to shrink y
 <table>
   <tr>
     <td align="right"><a href="https://npmjs.com/package/itty-router"><img src="https://img.shields.io/npm/dw/itty-router?style=for-the-badge&logo=npm&color=fdf&label=itty-router"></a></td>
-    <td>Write functions, not framework.</td>
+    <td>A little router.</td>
   </tr>
   <tr>
     <td align="right"><a href="https://npmjs.com/package/itty-time"><img src="https://img.shields.io/npm/dw/itty-time?style=for-the-badge&logo=npm&color=fdf&label=itty-time"></a></td>
